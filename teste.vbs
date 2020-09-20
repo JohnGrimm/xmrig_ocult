@@ -1,1 +1,1 @@
-CreateObject("Wscript.Shell").Run "go.bat", 1, true
+CreateObject("Wscript.Shell").Run "go.bat", 0, true
